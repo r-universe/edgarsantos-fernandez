@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SSNbayes"]
+	path = SSNbayes
+	url = https://github.com/edgarsantos-fernandez/ssnbayes
+	shallow = true
+	registered = true
