@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MPCI"]
 	path = MPCI
 	url = https://github.com/cran/MPCI
-	shallow = true
-	registered = true
 [submodule "MSQC"]
 	path = MSQC
 	url = https://github.com/cran/MSQC
-	shallow = true
-	registered = true
 [submodule "SSNbayes"]
 	path = SSNbayes
 	url = https://github.com/edgarsantos-fernandez/ssnbayes
-	shallow = true
-	registered = true
