@@ -1,0 +1,9 @@
+[
+  {
+    "package": "SSN",
+    "url": "https://github.com/jayverhoef/SSN",
+    "via": ["SSNbayes"],
+    "branch": "v1.1.18",
+    "from": "SSNbayes"
+  }
+]
