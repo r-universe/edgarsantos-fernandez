@@ -8,11 +8,6 @@
 [submodule "MSQC"]
 	path = MSQC
 	url = https://github.com/cran/MSQC
-[submodule "SSN"]
-	path = SSN
-	url = https://github.com/jayverhoef/SSN
-	branch = v1.1.18
-	registered = false
 [submodule "SSNbayes"]
 	path = SSNbayes
 	url = https://github.com/edgarsantos-fernandez/ssnbayes
