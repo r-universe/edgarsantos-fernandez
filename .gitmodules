@@ -5,9 +5,6 @@
 [submodule "MPCI"]
 	path = MPCI
 	url = https://github.com/cran/MPCI
-[submodule "MSQC"]
-	path = MSQC
-	url = https://github.com/cran/MSQC
 [submodule "SSNbayes"]
 	path = SSNbayes
 	url = https://github.com/edgarsantos-fernandez/ssnbayes
